@@ -1,0 +1,4 @@
+
+
+/hostfs/ws/mqttBroker/wrs_mqtt_broker.cfg 
+/hostfs/ws/VSB_Altera/usr/root/diab/bin;/hostfs/ws/libvxap-mqtt-common/VSB_Altera_ARMARCH7diab_C++2003/libvxap-mqtt-common/Debug
