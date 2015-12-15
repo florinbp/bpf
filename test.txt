@@ -1,8 +1,4 @@
 Test1
-<<<<<<< HEAD
 Test2
 Test3
 Test4
-=======
-Test2
->>>>>>> parent of d4addcf... Write Test3
